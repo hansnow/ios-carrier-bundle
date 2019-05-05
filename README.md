@@ -9,6 +9,7 @@
 
 + 刷入老版本配置文件会让系统恢复到自带的运营商配置
 + macOS下打开iTunes的`carrier-testing`模式的命令为
+
     `defaults write com.apple.iTunes carrier-testing -bool YES`
 
 ### 参考资料
